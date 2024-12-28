@@ -5,6 +5,8 @@ Team Name: Budget Padmanabans
 
 Financial Santa is a personal finance app that helps users track expenses and credits, provides AI-generated money-saving ideas, sets goals, and rewards users with notifications for meeting financial targets. It also finds coupons after purchases.
 
+
+
 Features
 Expense & Credit Tracking:
 Users can input detailed transactions such as income, expenses, and credits. The app automatically calculates the remaining balance and categorizes the data for easy tracking (e.g., groceries, utilities, entertainment, etc.).
