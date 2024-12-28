@@ -1,5 +1,8 @@
 Financial Santa
+
 Team Name: Budget Padmanabans
+
+
 Financial Santa is a personal finance app that helps users track expenses and credits, provides AI-generated money-saving ideas, sets goals, and rewards users with notifications for meeting financial targets. It also finds coupons after purchases.
 
 Features
